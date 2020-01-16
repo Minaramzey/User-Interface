@@ -64,3 +64,101 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* Header*/
+
+
+
+	Header{
+margin-left:;
+text-align: left;
+
+	}
+
+a{
+	margin-right:;
+	color: grey;
+	margin-left: 7%;
+}
+
+
+h1{
+	font-size: 80px;
+	text-align: left;
+	margin-left: 20%;
+	transform: translateY(50%);
+	
+}
+
+button{
+width:8%;
+  padding: 1% 0;
+  border: .5px solid;
+  margin-left:20%;
+  transform: translateY(200%);
+}
+
+
+#Top .container div{
+	text-align:left;
+	width:20%;
+	display:inline-block;
+	margin:0 10%;
+	}
+#Top .container div p{
+		text-align:justify;
+		
+	  }
+
+#Bottom .container div{
+		text-align:left;
+		width:15%;
+		display:inline-block;
+		margin:3% 7%;
+		}
+
+#Bottom .container div p{
+			text-align:justify;
+		  }
+
+
+
+#Contact .container div{
+	text-align:left;
+	width:15%;
+	display:inline-block;
+	margin:1% 7%;
+	}
+#Contact .container div p{
+	text-align:justify;
+  }
+
+footer{
+	padding: 10%;
+	text-align: center;
+}
+
+
+.logo{
+	margin-left: 15%;
+	margin-top: 1%;
+	padding:1%;
+
+}
+.middle-img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding: 3%;
+}
+
+.code-img{
+	margin-left:50%;
+	transform: translateY(-50%);
+
+}
+
+
+
+
